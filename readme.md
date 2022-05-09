@@ -16,3 +16,5 @@ Nos hemos dado cuenta que no era ese fichero, entonces lo devolvemos al estado s
 
 
 //RETO4
+
+Despues de subir el fichero .gitignore al repositorio en la nube, se ha agregado debajo en la terminal del fichero readme.md la siguiente ruta : //  git remote add origin https://github.com/ManuelPiris/Retos.gitgit remote add origin https://github.com/ManuelPiris/Retos.git  //
